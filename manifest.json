@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "R",
+  "metadata": {
+    "appmode": "shiny",
+    "primary_rmd": null,
+    "primary_html": null,
+    "content_category": null
+  },
+  "packages": [
+    {"package": "shiny"},
+    {"package": "bslib"},
+    {"package": "dplyr"},
+    {"package": "ggplot2"},
+    {"package": "lmtest"},
+    {"package": "sandwich"},
+    {"package": "margins"},
+    {"package": "caret"},
+    {"package": "pROC"},
+    {"package": "DT"},
+    {"package": "scales"},
+    {"package": "plotly"},
+    {"package": "sf"},
+    {"package": "leaflet"},
+    {"package": "geodata"}
+  ],
+  "files": [
+    "app.R",
+    "global.R",
+    "data/base_jovenes_renombrada.csv"
+  ]
+}
