@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Deployment metadata
+rsconnect/
+
+# OS files
+Thumbs.db
+.DS_Store
